@@ -1,3 +1,4 @@
+<img align="center" alt="coding" height="250" width="1500" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
 <h1 align="center">Hi 👋, I'm Arnab Sikdar</h1>
 <h3 align="center">A passionate Software Engineer from India🧑‍💻</h3>
 
